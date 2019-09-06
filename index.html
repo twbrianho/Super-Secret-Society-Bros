@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>Super Secret Society Bros</title>
+    <link rel="shortcut icon" type="image/x-icon" href="img/player.png"/>
+    <script src="js/phaser.min.js"></script> <!-- Phaser CE v2.12.0 -->
+
+    <!-- States -->
+    <script type="text/javascript" src="js/states/load_state.js"></script>
+    <script type="text/javascript" src="js/states/play_state.js"></script>
+    <script type="text/javascript" src="js/states/menu_state.js"></script>
+    <script type="text/javascript" src="js/states/instructions_state.js"></script>
+    <script type="text/javascript" src="js/states/volume_state.js"></script>
+
+    <!-- Enemies -->
+    <script type="text/javascript" src="js/enemies/enemy_manager.js"></script>
+    <script type="text/javascript" src="js/enemies/enemy_explosion_manager.js"></script>
+    <script type="text/javascript" src="js/enemies/bullet_explosion_manager.js"></script>
+    <script type="text/javascript" src="js/enemies/enemy1_manager.js"></script>
+    <script type="text/javascript" src="js/enemies/enemy2_manager.js"></script>
+    <script type="text/javascript" src="js/enemies/enemy3_manager.js"></script>
+    <script type="text/javascript" src="js/enemies/enemy4_manager.js"></script>
+
+    <!-- Players -->
+    <script type="text/javascript" src="js/player/player.js"></script>
+    <script type="text/javascript" src="js/player/player_explosion_manager.js"></script>
+    <script type="text/javascript" src="js/player/player_weapon_manager.js"></script>
+    <script type="text/javascript" src="js/player/player_weapon_blaster.js"></script>
+    <script type="text/javascript" src="js/player/player_weapon_laser.js"></script>
+    <script type="text/javascript" src="js/player/player_weapon_splitter.js"></script>
+    <script type="text/javascript" src="js/player/player_weapon_cannon.js"></script>
+
+    <!-- Power-Ups -->
+    <script type="text/javascript" src="js/power_ups/pwr_up_manager.js"></script>
+    <script type="text/javascript" src="js/power_ups/extra_heart_pwr_up.js"></script>
+    <script type="text/javascript" src="js/power_ups/extra_special_pwr_up.js"></script>
+    <script type="text/javascript" src="js/power_ups/weapon_change_blaster.js"></script>
+    <script type="text/javascript" src="js/power_ups/weapon_change_laser.js"></script>
+    <script type="text/javascript" src="js/power_ups/weapon_change_splitter.js"></script>
+    <script type="text/javascript" src="js/power_ups/weapon_change_cannon.js"></script>
+
+    <!-- UI -->
+    <script type="text/javascript" src="js/ui/ui_manager.js"></script>
+    <script type="text/javascript" src="js/ui/ui_box.js"></script>
+    <script type="text/javascript" src="js/ui/score_ui.js"></script>
+    <script type="text/javascript" src="js/ui/hearts_ui.js"></script>
+    <script type="text/javascript" src="js/ui/special_ui.js"></script>
+    <script type="text/javascript" src="js/ui/weapon_ui.js"></script>
+    <script type="text/javascript" src="js/ui/game_over_ui.js"></script>
+    <script type="text/javascript" src="js/ui/you_win_ui.js"></script>
+
+    <!-- Others -->
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/controls.js"></script>
+    <script type="text/javascript" src="js/stage_controller.js"></script>
+    <script type="text/javascript" src="js/bg_manager.js"></script>
+    <script type="text/javascript" src="js/instruction_page_manager.js"></script>
+
+    <style>
+        body, html {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #010100;
+        }
+    </style>
+</head>
+
+<body>
+<div id='game-screen'></div>
+</body>
+</html>  

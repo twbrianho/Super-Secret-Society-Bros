@@ -1,0 +1,140 @@
+{
+  "Intro": {
+    "bars": 8,
+    "enemies": {
+      "enemy1": 0.4692
+    }
+  },
+  "Build": {
+    "bars": 8,
+    "enemies": {
+      "enemy1": 0.4692,
+      "enemy2": 0.9384
+    }
+  },
+  "Funk": {
+    "bars": 8,
+    "enemies": {
+      "enemy1": 0.4692,
+      "enemy3": 0.9384
+    }
+  },
+  "MusicBuild": {
+    "bars": 8,
+    "enemies": {
+      "enemy1": 0.4692,
+      "enemy4": 0.9384
+    }
+  },
+  "Swell": {
+    "bars": 8,
+    "enemies": {
+      "enemy1": 0.2346
+    }
+  },
+  "SmallBridge": {
+    "bars": 1,
+    "enemies": {
+      "enemy1": 0.4692
+    }
+  },
+  "Surround": {
+    "bars": 8,
+    "enemies": {
+      "enemy1": 1.8768,
+      "enemy2": 1.8768,
+      "enemy3": 1.8768,
+      "enemy4": 1.8768
+    }
+  },
+  "Funky": {
+    "bars": 8,
+    "enemies": {
+      "enemy1": 0.4692,
+      "enemy2": 0.9384
+    }
+  },
+  "Funkier": {
+    "bars": 8,
+    "enemies": {
+      "enemy1": 0.4692,
+      "enemy2": 0.9384,
+      "enemy4": 1.8768
+    }
+  },
+  "Bridge": {
+    "bars": 2,
+    "enemies": {
+      "enemy1": 0.2346,
+      "enemy3": 0.4692
+    }
+  },
+  "Drop": {
+    "bars": 7,
+    "enemies": {
+      "enemy1": 0.4692,
+      "enemy2": 0.4692,
+      "enemy3": 0.9384,
+      "enemy4": 0.9384
+    }
+  },
+  "A": {
+    "bars": 1,
+    "enemies": {
+      "enemy1": 0.4692,
+      "enemy3": 0.9384
+    }
+  },
+  "B": {
+    "bars": 1,
+    "enemies": {
+      "enemy4": 0.2346
+    }
+  },
+  "Soothe": {
+    "bars": 8,
+    "enemies": {
+      "enemy1": 0.4692
+    }
+  },
+  "Regroup": {
+    "bars": 8,
+    "enemies": {
+      "enemy1": 0.4692,
+      "enemy2": 0.9384
+    }
+  },
+  "Battle": {
+    "bars": 16,
+    "enemies": {
+      "enemy1": 0.2346,
+      "enemy2": 0.4692,
+      "enemy3": 0.9384,
+      "enemy4": 1.8768
+    }
+  },
+  "Outro": {
+    "bars": 16,
+    "enemies": {
+      "enemy1": 0.9384,
+      "enemy2": 0.9384,
+      "enemy3": 0.9384
+    }
+  },
+  "FadeOut": {
+    "bars": 8,
+    "enemies": {
+      "enemy1": 0.4692
+    }
+  },
+  "empty": {
+    "bars": 2,
+    "enemies": {
+    }
+  },
+  "finish": {
+    "bars": "done",
+    "enemies": {
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+	"frames": {
+		"bulletBlasterP1-1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"bulletBlasterP1-2.png": {
+			"frame": {
+				"x": 303,
+				"y": 1,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"bulletBlasterP1-3.png": {
+			"frame": {
+				"x": 1,
+				"y": 303,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		},
+		"bulletBlasterP1-4.png": {
+			"frame": {
+				"x": 303,
+				"y": 303,
+				"w": 300,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 300
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 604,
+			"h": 604
+		},
+		"scale": "1"
+	}
+}

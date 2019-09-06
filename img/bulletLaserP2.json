@@ -1,0 +1,95 @@
+{
+	"frames": {
+		"bulletLaserP2-1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 102,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 300
+			}
+		},
+		"bulletLaserP2-2.png": {
+			"frame": {
+				"x": 105,
+				"y": 1,
+				"w": 102,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 300
+			}
+		},
+		"bulletLaserP2-3.png": {
+			"frame": {
+				"x": 209,
+				"y": 1,
+				"w": 102,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 300
+			}
+		},
+		"bulletLaserP2-4.png": {
+			"frame": {
+				"x": 313,
+				"y": 1,
+				"w": 102,
+				"h": 300
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 300
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 300
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 416,
+			"h": 302
+		},
+		"scale": "1"
+	}
+}

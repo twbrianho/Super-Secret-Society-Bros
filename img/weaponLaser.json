@@ -1,0 +1,95 @@
+{
+	"frames": {
+		"weaponLaser-1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 70,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 70
+			}
+		},
+		"weaponLaser-2.png": {
+			"frame": {
+				"x": 73,
+				"y": 1,
+				"w": 70,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 70
+			}
+		},
+		"weaponLaser-3.png": {
+			"frame": {
+				"x": 1,
+				"y": 73,
+				"w": 70,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 70
+			}
+		},
+		"weaponLaser-4.png": {
+			"frame": {
+				"x": 73,
+				"y": 73,
+				"w": 70,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 70
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 144,
+			"h": 144
+		},
+		"scale": "1"
+	}
+}

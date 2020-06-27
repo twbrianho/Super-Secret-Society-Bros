@@ -1,6 +1,7 @@
 # Super Secret Society Bros.
 
 A 2-player online bullet hell game driven by music.
+Demo: https://super-secret-society-bros.netlify.app/
 
 **Game Genres:** Bullet-Hell, Arcade, Co-op, Rhythm, Top-Down Shooter
 
